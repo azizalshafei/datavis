@@ -38,7 +38,7 @@
       "text": {"field": "properties.ISO_A3", "type": "nominal"},
       "longitude": {"field": "properties.long", "type": "quantitative"},
       "latitude": {"field": "properties.lat", "type": "quantitative"},
-      "size": {"value": 5},
+      "size": {"value": 15},
       "opacity": {"value": 0.6}
     }
   }
