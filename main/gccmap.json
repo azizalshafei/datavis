@@ -22,5 +22,23 @@
       }
     ],
     "projection": {"type": "mercator"},
-    "mark": "geoshape"
+    
+    "layer": [
+  {
+    "mark": {
+      "type": "geoshape",
+      "fill": "#eee",
+      "stroke": "#757575",
+      "strokeWidth": 0.5
+    }
+  },
+  {
+    "mark": "text",
+    "encoding": {
+      "text": {"field": "properties.ISO_A3", "type": "nominal"},
+      "size": {"value": 10},
+      "opacity": {"value": 0.6}
+    }
+  }
+]
   }
