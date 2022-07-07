@@ -1,0 +1,26 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+    "width": 500,
+    "height": 300,
+    "data": {
+      "url": "https://raw.githubusercontent.com/azizalshafei/datavis/main/main/main/countries.geojson",
+      "format": {"property": "features"}
+    },
+    "transform": [
+      {
+        "filter": {
+          "field": "properties.ISO_A3",
+          "oneOf": [
+            "BHR",
+            "KWT",
+            "OMN",
+            "QAT",
+            "SAU",
+            "ARE"           
+          ]
+        }
+      }
+    ],
+    "projection": {"type": "mercator"},
+    "mark": "geoshape"
+  }
