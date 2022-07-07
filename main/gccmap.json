@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
-    "width": 800,
+    "width": 300,
     "height": 300,
     "data": {
       "url": "https://raw.githubusercontent.com/azizalshafei/datavis/main/main/main/countries.geojson",
