@@ -36,6 +36,8 @@
     "mark": "text",
     "encoding": {
       "text": {"field": "properties.ISO_A3", "type": "nominal"},
+      "longitude": {"field": "properties.long", "type": "quantitative"},
+      "latitude": {"field": "properties.lat", "type": "quantitative"},
       "size": {"value": 10},
       "opacity": {"value": 0.6}
     }
