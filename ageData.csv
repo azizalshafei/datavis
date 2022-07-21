@@ -1,9 +1,9 @@
-﻿Ages,Country Name,perOfCountryTotal,perOfGccTotal,perOfFemaleCountryTotal,perOfMaleCountryTotal,perOfFemaleGccTotal,perOfMaleGccTotal,,,,,
-0-4,Bahrain,5.84,0.19,9.50,4.44,0.32,0.14,,,,,
-5-9,Bahrain,5.35,0.17,8.50,4.14,0.29,0.13,,,,,
-10-14,Bahrain,4.49,0.15,6.93,3.56,0.24,0.11,,,,,
-15-19,Bahrain,3.98,0.13,5.54,3.38,0.19,0.11,,,,,
-20-24,Bahrain,8.25,0.27,9.49,7.77,0.32,0.25,,,,,
+﻿Ages,Country Name,perOfCountryTotal,perOfGccTotal,perOfFemaleCountryTotal,perOfMaleCountryTotal,perOfFemaleGccTotal,perOfMaleGccTotal
+0-4,Bahrain,5.84,0.19,9.50,4.44,0.32,0.14
+5-9,Bahrain,5.35,0.17,8.50,4.14,0.29,0.13
+10-14,Bahrain,4.49,0.15,6.93,3.56,0.24,0.11
+15-19,Bahrain,3.98,0.13,5.54,3.38,0.19,0.11
+20-24,Bahrain,8.25,0.27,9.49,7.77,0.32,0.25
 25-29,Bahrain,16.90,0.55,15.69,17.37,0.53,0.56,,,,,
 30-34,Bahrain,15.65,0.51,12.78,16.76,0.43,0.54,,,,,
 35-39,Bahrain,11.23,0.37,8.91,12.12,0.30,0.39,,,,,
