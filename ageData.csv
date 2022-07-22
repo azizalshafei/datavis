@@ -1,4 +1,4 @@
-Ages,country_Name,perOfCountryTotal,perOfGccTotal,perOfFemaleCountryTotal,perOfMaleCountryTotal,perOfFemaleGccTotal,perOfMaleGccTotal,countryTotal
+Ages,country_Name,PercentageOfMigrantsfromCountryPopulation,perOfGccTotal,perOfFemaleCountryTotal,perOfMaleCountryTotal,perOfFemaleGccTotal,perOfMaleGccTotal,countryTotal
 0-4,Bahrain,5.84,0.19,9.50,4.44,0.32,0.14,23373
 5-9,Bahrain,5.35,0.17,8.50,4.14,0.29,0.13,21808
 10-14,Bahrain,4.49,0.15,6.93,3.56,0.24,0.11,18737
